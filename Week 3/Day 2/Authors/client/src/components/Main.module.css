@@ -1,0 +1,25 @@
+.author {
+    width: 60%;
+    margin: 0 auto;
+    text-align : center;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+table,  th, td {
+
+    border: 2px solid skyblue;
+      border-collapse: collapse;
+      padding: 17px;
+      background-color: grey;
+      width: 15px;
+      margin-left: 350px;
+    }
+    .tablee{
+        color: white;
+    }
+  .tag{
+    color: blue;
+  }
